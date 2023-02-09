@@ -1,0 +1,44 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv{
+    border-width:2px;
+    border-color:gray;
+    border-style:solid;
+}
+.travel_mainDiv img{
+    width:100%;
+
+}
+travel_mainDiv p{
+text-align:left;
+}
+.movie_head{
+    font-size:25px;
+    padding:6px 22px;
+    border-radius:12px;
+    margin-bottom:20px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:aquamarine
+}
+.movie_head{
+    font-size:25px;
+    padding:6px 22px;
+    border-radius:12px;
+    margin-bottom:20px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:aquamarine
+}
+#Imag2{
+    width:750px;
+    height:750px;
+}
